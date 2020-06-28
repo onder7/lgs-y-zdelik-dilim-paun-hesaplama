@@ -114,7 +114,7 @@ $phpMailerObj->Port = 587;
 $phpMailerObj->SMTPSecure = 'tls';
 $phpMailerObj->SMTPAuth = TRUE;                 
 $phpMailerObj->Username = 'onder7@gmail.com';                 
-$phpMailerObj->Password = 'Adana0607!1';
+$phpMailerObj->Password = '°°°°°°°°[[';
 
 $phpMailerObj->isHTML(true); // Define as HTML
 
